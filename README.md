@@ -23,10 +23,10 @@ It allows users to **add** and **delete** tasks dynamically — no backend requi
 ## 📸 Screenshots
 
 ### ▶️ Interface
-![Todo App Screenshot](./Screenshot%202025-10-26%20093353.png)
+![Todo App Screenshot](./Screenshot_2025-10-26_093353.png)
 
 ### ▶️ After Adding a Task
-![Todo App Screenshot](./Screenshot%202025-10-26%20093407.png)
+![Todo App Screenshot](./Screenshot_2025-10-26_093407.png)
 
 ---
 
